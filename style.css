@@ -1,0 +1,34 @@
+#home {
+  text-align: center;
+}
+#image {
+  max-width: 100%;
+  text-align: center;
+  box-shadow: 2px 2px 2px 2px #000;
+}
+body {
+  min-height: 2000px;
+}
+#jenis-font {
+  font-family: Lemonada sans-serif;
+}
+section {
+  padding-top: 5rem;
+}
+
+.history {
+  line-height: 1.6;
+  margin: 16px;
+}
+.font {
+  font-family: Monserrat;
+}
+
+.photos {
+  margin: auto;
+  position: relative;
+  padding-bottom: 1rem;
+  font-family: Monserrat;
+  width: auto;
+  height: auto;
+}
